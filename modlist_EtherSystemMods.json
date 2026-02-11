@@ -22,7 +22,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				""
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/OxygenLevels.png"
 			],
 			"dependencies": [
 				"ModComponent, ModSettings"
@@ -65,7 +65,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				""
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/SweatSystem.png"
 			],
 			"dependencies": [
 				""
@@ -108,7 +108,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				""
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/MinorMiseries.png"
 			],
 			"dependencies": [
 				"AfflictionComponent, ModComponent, ModSettings"
