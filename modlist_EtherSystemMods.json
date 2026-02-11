@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"name": "OxygenLevels",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-01-07",
 			"updated": "2026-01-18",
-			"downloadURL": "https://github.com/EtherSystem/OxygenLevels/releases/download/1.2.0/OxygenLevels.dll",
+			"downloadURL": "https://github.com/EtherSystem/OxygenLevels/releases/download/1.3.0/OxygenLevels.dll",
 			"modURL": "https://github.com/EtherSystem/OxygenLevels",
 			"description": "Add a system to simulate oxygen deprivation based on the player's altitude.",
 			"tags": "",
@@ -41,7 +41,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/EtherSystem/OxygenLevels/releases/download/1.2.0/OxygenLevels.dll"
+					"https://github.com/EtherSystem/OxygenLevels/releases/download/1.3.0/OxygenLevels.dll"
 				]
 			},
 			"aliases": [],
@@ -92,14 +92,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.3.0",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-01-27",
 			"updated": "2026-02-08",
-			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/download/1.2.1/Minor_Miseries.dll",
+			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/download/1.3.0/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
 			"description": "Adds many minor afflictions.",
 			"tags": "",
@@ -127,7 +127,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/EtherSystem/MinorMiseries/releases/download/1.2.1/Minor_Miseries.dll"
+					"https://github.com/EtherSystem/MinorMiseries/releases/download/1.3.0/Minor_Miseries.dll"
 				]
 			},
 			"aliases": [],
