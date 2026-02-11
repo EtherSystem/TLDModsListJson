@@ -65,7 +65,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/SweatSystem.png"
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/SweatSystem.jpg"
 			],
 			"dependencies": [
 				""
@@ -108,7 +108,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/MinorMiseries.png"
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/MinorMiseries.jpg"
 			],
 			"dependencies": [
 				"AfflictionComponent, ModComponent, ModSettings"
