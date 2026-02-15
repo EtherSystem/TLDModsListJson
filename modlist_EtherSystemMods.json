@@ -1,3 +1,5 @@
+{
+	"version": "2",
 	"author": "EtherSystem",
 	"authorURL": "https://github.com/EtherSystem",
 	"supportURL": "",
@@ -23,7 +25,9 @@
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/OxygenLevels.png"
 			],
 			"dependencies": [
-				"ModComponent, ModSettings"
+				"AfflictionComponent",
+				"ModComponent",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
@@ -110,7 +114,9 @@
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/MinorMiseries.jpg"
 			],
 			"dependencies": [
-				"AfflictionComponent, ModComponent, ModSettings"
+				"AfflictionComponent",
+				"ModComponent",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
