@@ -95,16 +95,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.1",
+			"version": "1.4.0",
 			"name": "MinorMiseries",
 			"displayName": "",
-			"author": "EtherSystem",
+			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-01-27",
-			"updated": "2026-02-16",
+			"updated": "2026-03-02",
 			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
-			"description": "Adds 12 new minor afflictions.",
+			"description": "Adds 14 new minor afflictions.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
@@ -116,7 +116,8 @@
 			"dependencies": [
 				"AfflictionComponent",
 				"ModComponent",
-				"ModSettings"
+				"ModSettings",
+				"ModData"
 			],
 			"status": {
 				"working": true,
