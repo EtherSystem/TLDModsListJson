@@ -194,8 +194,8 @@
 			"previousAuthors": "",
 			"released": "2026-03-17",
 			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/EtherSystem/ResumePreviewer/releases/latest/download/ResumePreviewer.dll",
-			"modURL": "https://github.com/EtherSystem/ResumePreviewer",
+			"downloadURL": "https://github.com/EtherSystem/ResumePreview/releases/latest/download/ResumePreviewer.dll",
+			"modURL": "https://github.com/EtherSystem/ResumePreview",
 			"description": "Displays the SaveSlot that will be loaded before pressing Resume in the Main Menu.",
 			"tags": "",
 			"categories": [
@@ -220,7 +220,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/EtherSystem/ResumePreviewer/releases/latest/download/ResumePreviewer.dll"
+					"https://github.com/EtherSystem/ResumePreview/releases/latest/download/ResumePreviewer.dll"
 				]
 			},
 			"aliases": [],
