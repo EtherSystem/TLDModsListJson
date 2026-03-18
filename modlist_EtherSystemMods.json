@@ -225,6 +225,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.0.1",
+			"name": "Afraid of the Dark",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "Previously by Atlas Lumi",
+			"released": "2022-04-11",
+			"updated": "2026-03-18",
+			"downloadURL": "https://github.com/EtherSystem/TLD-Afraid-of-the-Dark/releases/latest/download/AnxietyAtNight.dll",
+			"modURL": "https://github.com/EtherSystem/TLD-Afraid-of-the-Dark",
+			"description": "Makes the player anxious at night.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/AnxietyAtNight.png"
+			],
+			"dependencies": [
+				""
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/TLD-Afraid-of-the-Dark/releases/latest/download/AnxietyAtNight.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
