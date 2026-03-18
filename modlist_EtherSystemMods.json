@@ -70,9 +70,7 @@
 			"images": [
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/SweatSystem.jpg"
 			],
-			"dependencies": [
-				""
-			],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": true,
@@ -246,9 +244,7 @@
 			"images": [
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/AnxietyAtNight.png"
 			],
-			"dependencies": [
-				""
-			],
+			"dependencies": [],
 			"status": {
 				"working": true,
 				"beta": false,
