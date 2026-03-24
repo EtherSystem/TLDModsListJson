@@ -285,7 +285,9 @@
 			"images": [
 				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/InterloperHUDPro.PNG"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
