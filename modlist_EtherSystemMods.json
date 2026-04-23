@@ -307,6 +307,47 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "PZLoadingScreen",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-04-23",
+			"updated": "2026-04-23",
+			"downloadURL": "https://github.com/EtherSystem/PZLoadingScreen/releases/latest/download/PZLoadingScreen.dll",
+			"modURL": "https://github.com/EtherSystem/PZLoadingScreen",
+			"description": "Just a custom PZ-like custom loading screens mod",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/EtherSystem/TLDModsListJson/main/PZLoadingScreen.PNG"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/PZLoadingScreen/releases/latest/download/PZLoadingScreen.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
