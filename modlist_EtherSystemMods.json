@@ -93,13 +93,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.1",
+			"version": "1.5.2",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-01-27",
-			"updated": "2026-03-12",
+			"updated": "2026-04-25",
 			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
 			"description": "Adds 14 new minor afflictions and 3 new buffs.",
@@ -120,7 +120,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "",
+				"patchnotes": "Added AfflictionsAndBuffs support",
 				"notes": "",
 				"issues": ""
 			},
@@ -139,13 +139,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.5",
+			"version": "1.3.6",
 			"name": "TheLongMood",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-02-16",
-			"updated": "2026-04-18",
+			"updated": "2026-04-25",
 			"downloadURL": "https://github.com/EtherSystem/TheLongMood/releases/latest/download/TheLongMood.dll",
 			"modURL": "https://github.com/EtherSystem/TheLongMood",
 			"description": "Adds Project Zomboid–style Boredom & Depression to The Long Dark.",
@@ -166,7 +166,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Added AfflictionsAndBuffs support",
 				"notes": "",
 				"issues": ""
 			},
