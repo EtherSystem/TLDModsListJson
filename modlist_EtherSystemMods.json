@@ -348,6 +348,45 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ImprovedFirstAidPanel",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-05-02",
+			"updated": "2026-05-02",
+			"downloadURL": "https://github.com/EtherSystem/ImprovedFirstAidPanel/releases/latest/download/ImprovedFirstAidPanel.dll",
+			"modURL": "https://github.com/EtherSystem/ImprovedFirstAidPanel",
+			"description": "Small QoL to improved the First Aid Panel, making the panel easier to use by adding body-area filtering and direct treatment buttons",
+			"tags": "",
+			"categories": [
+				"QoL"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/ImprovedFirstAidPanel/releases/latest/download/ImprovedFirstAidPanel.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
