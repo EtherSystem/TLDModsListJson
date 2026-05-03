@@ -93,7 +93,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.3",
+			"version": "1.5.4",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
@@ -120,7 +120,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "Added MajorMiseries support",
+				"patchnotes": "some bug fixing",
 				"notes": "",
 				"issues": ""
 			},
