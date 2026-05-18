@@ -98,13 +98,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.8",
+			"version": "1.3.9",
 			"name": "TheLongMood",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-02-16",
-			"updated": "2026-04-29",
+			"updated": "2026-05-19",
 			"downloadURL": "https://github.com/EtherSystem/TheLongMood/releases/latest/download/TheLongMood.dll",
 			"modURL": "https://github.com/EtherSystem/TheLongMood",
 			"description": "Adds Project Zomboid–style Boredom & Depression to The Long Dark.",
@@ -125,7 +125,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added MajorMiseries support",
+				"patchnotes": "Added OxygenLevels support",
 				"notes": "",
 				"issues": ""
 			},
