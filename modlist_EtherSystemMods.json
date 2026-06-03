@@ -310,13 +310,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "ImprovedFirstAidPanel",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-05-02",
-			"updated": "2026-05-02",
+			"updated": "2026-06-03",
 			"downloadURL": "https://github.com/EtherSystem/ImprovedFirstAidPanel/releases/latest/download/ImprovedFirstAidPanel.dll",
 			"modURL": "https://github.com/EtherSystem/ImprovedFirstAidPanel",
 			"description": "Small QoL to improved the First Aid Panel, making the panel easier to use by adding body-area filtering and direct treatment buttons",
@@ -330,7 +330,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "fix issues with intestinal parasites",
 				"notes": "",
 				"issues": ""
 			},
