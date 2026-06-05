@@ -311,8 +311,8 @@
 		{
 			"type": "mod",
 			"version": "1.0.4",
-			"name": "Improved First Aid Panel",
-			"displayName": "",
+			"name": "ImprovedFirstAidPanel",
+			"displayName": "Improved First Aid Panel",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-05-02",
@@ -350,8 +350,8 @@
 		{
 			"type": "mod",
 			"version": "1.1.0",
-			"name": "Major Miseries",
-			"displayName": "",
+			"name": "MajorMiseries",
+			"displayName": "Major Miseries",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-05-14",
