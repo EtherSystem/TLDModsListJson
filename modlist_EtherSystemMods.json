@@ -349,13 +349,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "MajorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-05-14",
-			"updated": "2026-06-05",
+			"updated": "2026-06-11",
 			"downloadURL": "https://github.com/EtherSystem/MajorMiseries/releases/latest/download/MajorMiseries.dll",
 			"modURL": "https://github.com/EtherSystem/MajorMiseries",
 			"description": "Adds 18 new major afflictions and 1 new buff.",
@@ -374,7 +374,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "Aurora Influence woooo",
+				"patchnotes": "Added difficulty presets for CO/BlackLung/Sepsis and new UI displays",
 				"notes": "",
 				"issues": ""
 			},
