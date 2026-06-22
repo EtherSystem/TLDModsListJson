@@ -390,6 +390,89 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ExpandedTradingFramework",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-06-22",
+			"updated": "2026-06-22",
+			"downloadURL": "https://github.com/EtherSystem/ExpandedTradingFramework/releases/latest/download/ExpandedTradingFramework.dll",
+			"modURL": "https://github.com/EtherSystem/ExpandedTradingFramework",
+			"description": "A framework for creating custom trades for the trader.",
+			"tags": "",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/ExpandedTradingFramework/releases/latest/download/ExpandedTradingFramework.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SutherlandExpandedStock",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-06-22",
+			"updated": "2026-06-22",
+			"downloadURL": "https://github.com/EtherSystem/SutherlandExpandedStock/releases/latest/download/SutherlandExpandedStock.dll",
+			"modURL": "https://github.com/EtherSystem/SutherlandExpandedStock",
+			"description": "Content mod using ETF for creating 56 new custom trades for the trader.",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/SutherlandExpandedStock/releases/latest/download/SutherlandExpandedStock.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
