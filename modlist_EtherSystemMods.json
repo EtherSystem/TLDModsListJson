@@ -452,6 +452,7 @@
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
+				"ExpandedTradingFramework",
 				"ModSettings"
 			],
 			"status": {
