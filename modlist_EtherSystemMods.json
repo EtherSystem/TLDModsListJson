@@ -349,13 +349,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "MajorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-05-14",
-			"updated": "2026-07-06",
+			"updated": "2026-07-08",
 			"downloadURL": "https://github.com/EtherSystem/MajorMiseries/releases/latest/download/MajorMiseries.dll",
 			"modURL": "https://github.com/EtherSystem/MajorMiseries",
 			"description": "Adds 18 new major afflictions and 1 new buff.",
@@ -374,7 +374,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "Gold Mine in AC is now considered as sheltered for the Aurora Influence",
+				"patchnotes": "Fixed an issue causing the player to fall out of the map after a sleepwalking event",
 				"notes": "",
 				"issues": ""
 			},
