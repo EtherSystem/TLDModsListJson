@@ -474,6 +474,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.2.0",
+			"name": "DeadAirReborn",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "TonisGaming",
+			"released": "2026-07-13",
+			"updated": "2026-07-13",
+			"downloadURL": "https://github.com/EtherSystem/DeadAirReborn/releases/latest/download/DeadAirReborn.zip",
+			"modURL": "https://github.com/EtherSystem/DeadAirReborn",
+			"description": "Revival of DeadAir mod made by TonisGaming",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModComponent",
+				"ModSettings",
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "Updated for 2.55. Filters drain can be set on IN-GAME TIME I wanted. Integration of ModData for starter kit persistence.",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/DeadAirReborn/releases/latest/download/DeadAirReborn.zip"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
