@@ -52,13 +52,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.8",
+			"version": "1.5.9",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-01-27",
-			"updated": "2026-06-20",
+			"updated": "2026-07-13",
 			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
 			"description": "Adds 14 new minor afflictions and 3 new buffs.",
@@ -79,7 +79,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "Fixing crafting modifier duration issue",
+				"patchnotes": "StuckFood dont remove overconfidence anymore",
 				"notes": "",
 				"issues": ""
 			},
