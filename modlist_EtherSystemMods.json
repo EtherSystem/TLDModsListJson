@@ -52,13 +52,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.9",
+			"version": "1.5.10",
 			"name": "MinorMiseries",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-01-27",
-			"updated": "2026-07-13",
+			"updated": "2026-07-22",
 			"downloadURL": "https://github.com/EtherSystem/MinorMiseries/releases/latest/download/Minor_Miseries.dll",
 			"modURL": "https://github.com/EtherSystem/MinorMiseries",
 			"description": "Adds 14 new minor afflictions and 3 new buffs.",
@@ -79,7 +79,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "StuckFood dont remove overconfidence anymore",
+				"patchnotes": "Balancing patch for scratch/splinter/backpain",
 				"notes": "",
 				"issues": ""
 			},
