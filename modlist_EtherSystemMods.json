@@ -393,13 +393,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "ExpandedTradingFramework",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-06-22",
-			"updated": "2026-06-22",
+			"updated": "2026-07-24",
 			"downloadURL": "https://github.com/EtherSystem/ExpandedTradingFramework/releases/latest/download/ExpandedTradingFramework.dll",
 			"modURL": "https://github.com/EtherSystem/ExpandedTradingFramework",
 			"description": "A framework for creating custom trades for the trader.",
@@ -416,7 +416,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "",
+				"patchnotes": "Fix some icon/SR issues",
 				"notes": "",
 				"issues": ""
 			},
