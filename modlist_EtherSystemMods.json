@@ -517,6 +517,47 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ExpandedSkills",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-08-01",
+			"updated": "2026-08-01",
+			"downloadURL": "https://github.com/EtherSystem/ExpandedSkills/releases/latest/download/ExpandedSkills.dll",
+			"modURL": "https://github.com/EtherSystem/ExpandedSkills",
+			"description": "A mod to expand vanilla skills to a maximum of 10 levels",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModData"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/ExpandedSkills/releases/latest/download/ExpandedSkills.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
