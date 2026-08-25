@@ -558,6 +558,45 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "WindMovementFix",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-08-25",
+			"updated": "2026-08-25",
+			"downloadURL": "https://github.com/EtherSystem/WindMovementFix/releases/latest/download/WindMovementFix.dll",
+			"modURL": "https://github.com/EtherSystem/WindMovementFix",
+			"description": "Just a little fix for the wind speed debuff bug",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/WindMovementFix/releases/latest/download/WindMovementFix.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
