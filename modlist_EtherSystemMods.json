@@ -600,13 +600,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "Murmurations",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-09-12",
-			"updated": "2026-09-12",
+			"updated": "2026-09-13",
 			"downloadURL": "https://github.com/EtherSystem/Murmurations/releases/latest/download/Murmurations.dll",
 			"modURL": "https://github.com/EtherSystem/Murmurations",
 			"description": "An experimental mod aiming to add murmurations to the game",
@@ -620,7 +620,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Added presets for Murmurations behavior profile",
 				"notes": "",
 				"issues": ""
 			},
