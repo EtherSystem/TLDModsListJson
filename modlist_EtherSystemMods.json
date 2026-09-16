@@ -98,13 +98,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.11",
+			"version": "1.3.12",
 			"name": "TheLongMood",
 			"displayName": "",
 			"author": "EtherSystem, Flower Field",
 			"previousAuthors": "",
 			"released": "2026-02-16",
-			"updated": "2026-06-20",
+			"updated": "2026-09-16",
 			"downloadURL": "https://github.com/EtherSystem/TheLongMood/releases/latest/download/TheLongMood.dll",
 			"modURL": "https://github.com/EtherSystem/TheLongMood",
 			"description": "Adds Project Zomboid–style Boredom & Depression to The Long Dark.",
@@ -125,7 +125,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixing crafting modifier duration issue",
+				"patchnotes": "Fixed a bug preventing cooking recipes from being fully completed due to afflictions crafting penalities, leaving progress stuck at a lower percentage",
 				"notes": "",
 				"issues": ""
 			},
