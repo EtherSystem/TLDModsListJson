@@ -520,13 +520,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.1.0",
 			"name": "ExpandedSkills",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-08-01",
-			"updated": "2026-09-06",
+			"updated": "2026-09-16",
 			"downloadURL": "https://github.com/EtherSystem/ExpandedSkills/releases/latest/download/ExpandedSkills.dll",
 			"modURL": "https://github.com/EtherSystem/ExpandedSkills",
 			"description": "A mod to expand vanilla skills to a maximum of 10 levels",
@@ -542,7 +542,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixed a bug where the fire starting skill was reset on scene transition and minimum skill levels was badly held above level 6",
+				"patchnotes": "Fixed a bug preventing cooking recipes and research books from being correctly recognized and added a dependency on ModSettings to allow customization of the XP required for new levels",
 				"notes": "",
 				"issues": ""
 			},
