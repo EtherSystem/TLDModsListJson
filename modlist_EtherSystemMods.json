@@ -520,13 +520,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "ExpandedSkills",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-08-01",
-			"updated": "2026-09-16",
+			"updated": "2026-09-18",
 			"downloadURL": "https://github.com/EtherSystem/ExpandedSkills/releases/latest/download/ExpandedSkills.dll",
 			"modURL": "https://github.com/EtherSystem/ExpandedSkills",
 			"description": "A mod to expand vanilla skills to a maximum of 10 levels",
@@ -542,7 +542,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Fixed a bug preventing cooking recipes and research books from being correctly recognized and added a dependency on ModSettings to allow customization of the XP required for new levels",
+				"patchnotes": "fix bunch of stuff",
 				"notes": "",
 				"issues": ""
 			},
