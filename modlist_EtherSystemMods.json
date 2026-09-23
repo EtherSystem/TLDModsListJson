@@ -541,10 +541,10 @@
 			],
 			"status": {
 				"working": true,
-				"beta": false,
+				"beta": true,
 				"patchnotes": "fix bunch of stuff",
 				"notes": "",
-				"issues": ""
+				"issues": "Some funkiness about cooking and several inconsistent stuff every here and there, will be fixed one day."
 			},
 			"testedon": {
 				"tldversion": "2.55",
