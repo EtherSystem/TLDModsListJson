@@ -636,6 +636,45 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "WeatherOverhaul",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-10-01",
+			"updated": "2026-10-01",
+			"downloadURL": "https://github.com/EtherSystem/WeatherOverhaul/releases/latest/download/WeatherOverhaul.dll",
+			"modURL": "https://github.com/EtherSystem/WeatherOverhaul",
+			"description": "A mod designed to make vanilla weather predictable and add new custom weather stages",
+			"tags": "",
+			"categories": [
+				"Overhaul"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/WeatherOverhaul/releases/latest/download/WeatherOverhaul.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
