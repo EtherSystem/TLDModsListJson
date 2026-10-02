@@ -226,13 +226,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.1",
+			"version": "1.4.2",
 			"name": "InterloperHUDPro",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2025-10-23",
-			"updated": "2026-08-29",
+			"updated": "2026-10-02",
 			"downloadURL": "https://github.com/EtherSystem/InterloperHUDPro/releases/latest/download/InterloperHudPro.dll",
 			"modURL": "https://github.com/EtherSystem/InterloperHUDPro",
 			"description": "Adds a few new HUD displays.",
@@ -250,7 +250,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "stuff",
+				"patchnotes": "Added a new option to display WeatherOverhaul weather stage",
 				"notes": "",
 				"issues": ""
 			},
@@ -639,7 +639,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "WeatherOverhaul",
 			"displayName": "",
 			"author": "EtherSystem",
@@ -659,7 +659,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "fix custom temp offset",
+				"patchnotes": "Add an API to integrate the display of weather stages in IHP",
 				"notes": "",
 				"issues": ""
 			},
