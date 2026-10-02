@@ -639,13 +639,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.3",
+			"version": "1.0.4",
 			"name": "WeatherOverhaul",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-10-01",
-			"updated": "2026-10-02",
+			"updated": "2026-10-03",
 			"downloadURL": "https://github.com/EtherSystem/WeatherOverhaul/releases/latest/download/WeatherOverhaul.dll",
 			"modURL": "https://github.com/EtherSystem/WeatherOverhaul",
 			"description": "A mod designed to make vanilla weather predictable and add new custom weather stages",
@@ -659,7 +659,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Add an API to integrate the display of weather stages in IHP",
+				"patchnotes": "some bug fixing",
 				"notes": "",
 				"issues": ""
 			},
