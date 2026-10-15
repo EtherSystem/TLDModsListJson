@@ -600,13 +600,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "Murmurations",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-09-12",
-			"updated": "2026-09-13",
+			"updated": "2026-10-14",
 			"downloadURL": "https://github.com/EtherSystem/Murmurations/releases/latest/download/Murmurations.dll",
 			"modURL": "https://github.com/EtherSystem/Murmurations",
 			"description": "An experimental mod aiming to add murmurations to the game",
@@ -620,7 +620,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Added presets for Murmurations behavior profile",
+				"patchnotes": "Fix the animated birds not working after a reload",
 				"notes": "",
 				"issues": ""
 			},
@@ -639,13 +639,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.4",
+			"version": "1.0.5",
 			"name": "WeatherOverhaul",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-10-01",
-			"updated": "2026-10-03",
+			"updated": "2026-10-15",
 			"downloadURL": "https://github.com/EtherSystem/WeatherOverhaul/releases/latest/download/WeatherOverhaul.dll",
 			"modURL": "https://github.com/EtherSystem/WeatherOverhaul",
 			"description": "A mod designed to make vanilla weather predictable and add new custom weather stages",
@@ -659,7 +659,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "some bug fixing",
+				"patchnotes": "the visual effects of the various aurora variants are now correctly visible in indoor environments (with the exception of snowfall, to prevent it from appearing indoors, for obvious reasons of realism)",
 				"notes": "",
 				"issues": ""
 			},
