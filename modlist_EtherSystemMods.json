@@ -675,6 +675,45 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Spirits - Halloween Special",
+			"displayName": "",
+			"author": "EtherSystem",
+			"previousAuthors": "",
+			"released": "2026-10-31",
+			"updated": "2026-10-31",
+			"downloadURL": "https://github.com/EtherSystem/Spirits---Halloween-Special/releases/latest/download/Spirits___Halloween_Special.dll",
+			"modURL": "https://github.com/EtherSystem/Spirits---Halloween-Special",
+			"description": "Ghosts ! Booooo !",
+			"tags": "",
+			"categories": [
+				"Misc"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.59",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/EtherSystem/Spirits---Halloween-Special/releases/latest/download/Spirits___Halloween_Special.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
