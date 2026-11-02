@@ -520,13 +520,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "ExpandedSkills",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2026-08-01",
-			"updated": "2026-09-24",
+			"updated": "2026-11-02",
 			"downloadURL": "https://github.com/EtherSystem/ExpandedSkills/releases/latest/download/ExpandedSkills.dll",
 			"modURL": "https://github.com/EtherSystem/ExpandedSkills",
 			"description": "A mod to expand vanilla skills to a maximum of 10 levels",
@@ -542,7 +542,7 @@
 			"status": {
 				"working": true,
 				"beta": true,
-				"patchnotes": "reworked skill reward handling, fixing Cooking (yes, again...), Gunsmithing and Fire Starting progression issues, plus general cleanup",
+				"patchnotes": "Fix for 2.58",
 				"notes": "",
 				"issues": "Some funkiness can be expected for milling machines and several inconsistent stuff every here and there, will be fixed one day."
 			},
