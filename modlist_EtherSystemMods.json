@@ -226,13 +226,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.3",
+			"version": "1.5.0",
 			"name": "InterloperHUDPro",
 			"displayName": "",
 			"author": "EtherSystem",
 			"previousAuthors": "",
 			"released": "2025-10-23",
-			"updated": "2026-11-14",
+			"updated": "2026-11-20",
 			"downloadURL": "https://github.com/EtherSystem/InterloperHUDPro/releases/latest/download/InterloperHudPro.dll",
 			"modURL": "https://github.com/EtherSystem/InterloperHUDPro",
 			"description": "Adds a few new HUD displays.",
@@ -250,7 +250,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "Now with a vitamin C tracker",
+				"patchnotes": "Added a new position editor for HUDs",
 				"notes": "",
 				"issues": ""
 			},
